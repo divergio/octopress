@@ -1,0 +1,7 @@
+--- 
+wordpress_id: "13"
+layout: post
+title: Downtime
+wordpress_url: http://tyler.neocaridina.com/2006/10/28/downtime/
+---
+Sorry about the downtime, I was down for almost a month because I switched webhosts and ran into some unexpected problems.  It took three hours of troubleshooting, but I think I am mostly up, now.
