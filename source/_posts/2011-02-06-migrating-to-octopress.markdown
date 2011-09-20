@@ -1,5 +1,6 @@
 ---
 title: Migrating to Octopress
+layout: post
 updated: February6, 2011
 ---
 
