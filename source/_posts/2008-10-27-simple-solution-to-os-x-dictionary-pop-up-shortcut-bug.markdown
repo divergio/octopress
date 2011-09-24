@@ -16,3 +16,7 @@ After scrounging the internet forever, <a href="http://support.apple.com/kb/TS18
 I know the article doesn't seem relevant, but it solved the problem, so maybe some random googler will find this helpful.
 
 I should note, the tooltip for Chinese solution is still not ideal, but I haven't found a free solution that works well, yet.
+
+###Update (2011-09-23)
+
+This post is outdated, obviously. The newer version of the [dictionary](http://xiaocidian.com/ 'XiaoCiDian') is better formatted so that it doesn't usually require scrolling. Unfortunately, the new dictionary popup in Lion doesn't work quite as well as it has in older versions. It often searches for the wrong word, and it has an irritating delay in popping up. I guess you can buy Wenlin if you don't like it.
