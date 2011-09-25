@@ -2,7 +2,7 @@
 layout: page
 title: "Disclaimer"
 date: 2011-09-25 23:01
-comments: true
+comments: false
 sharing: true
 footer: true
 ---
