@@ -33,3 +33,11 @@ I have split it into two section: general interest podcasts and Apple
 podcasts. 
 
 Posts are forthcoming. 
+
+**Note: The title is a play on The Joy of Sex or The Joy of Cooking, but
+I noticed
+[I wasn't the only one to think of it](http://www.google.com/search?&q=%22The+Joy+of+Podcasts%22
+"google search: joy of podcasts"), including some
+[people](http://aprilmains.ca/2011/05/21/the-joy-of-podcasts/ "girl who
+likes Build and Analyze, also") who like the
+same podcasts as I do.**
