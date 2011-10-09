@@ -51,7 +51,7 @@ to get up to date with what is going on in the world in less than 30 minutes, th
 
 If you have more time, want to hear longer interviews, or need a news
 podcast on the weekend, I recommend the related podcast from the
-Global Service,
+World Service,
 [BBC Newshour](http://www.bbc.co.uk/podcasts/series/newshour "BBC
 Newshour podcast").
 
@@ -123,4 +123,4 @@ week, and it's usually US-centric). They get political and entertainment figures
 show, sometimes, and they are usually pretty funny. This is something
 to try out and see if you like the format.
 
-**Look for more podcast recommendations soon.**
+**Check out the next in the series, my [Apple-related podcast recommendations](http://www.divergio.com/blog/2011/10/03/the-joy-of-podcasts-apple-related-podcasts/ "a link to the  next post in the series").**

@@ -23,16 +23,23 @@ lot of extra banter.
 On the other hand, in the case of some of these podcasts you get
 additional thoughts and get to borrow more of these peoples' time than
 you would be able to if you only read their blog posts. They don't
-write blog posts on every topic they think about, and it's much easier
+write blog posts for every topic they think about, and it's much easier
 for them to communicate these thoughts in the informal atmosphere of a
 podcast.
 
 In that spirit, I have compiled a list of my favorite
 podcasts. Originally it was one post but the list went on so long that
-I have split it into two section: general interest podcasts and Apple
-podcasts. 
+I have split it into sections. 
 
-Posts are forthcoming. 
+Here is the list:
+
+* [General Interest](http://www.divergio.com/blog/2011/09/29/the-joy-of-podcasts-general-interest/
+"general interest podcasts")
+
+* [Apple-related](http://www.divergio.com/blog/2011/10/03/the-joy-of-podcasts-apple-related-podcasts/
+   "apple related podcasts")
+* [Android or non-Apple technology podcasts](http://www.divergio.com/blog/2011/10/10/the-joy-of-podcasts-android-or-non-apple-tech-podcasts/
+   "non-Apple podcasts")
 
 **Note: The title is a play on The Joy of Sex or The Joy of Cooking, but
 I noticed
