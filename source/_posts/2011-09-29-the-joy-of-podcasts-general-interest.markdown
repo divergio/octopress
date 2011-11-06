@@ -59,8 +59,7 @@ Newshour podcast").
 
 **Run time**: less than hour.
 
-Billed as "Oxford-style debating on this side of the Atlantic," [this
-podcast](http://intelligencesquaredus.org/ "Intelligence Squared podcast") is recordings of live debates on various contentious topics related to
+Billed as "Oxford-style debating on this side of the Atlantic," [this podcast](http://intelligencesquaredus.org/ "Intelligence Squared podcast") is recordings of live debates on various contentious topics related to
 modern American life.
 
 They only come out about once a month (or less), but they're usually quite
@@ -94,7 +93,7 @@ Listening to this podcast I often have some epiphany about how I'm
 doing my work or making decisions. It's also quite entertaining,
 mainly because Merlin Mann is an intensely likeable and very funny guy. 
 The only reason this podcast isn't in my top recommended section is
-because I'm still not sure what the podcast is even about. It's seems
+because I'm still not sure what the podcast is even about. It seems
 like sometimes they ramble on forever. I still enjoy it, and I'm
 giving it a chance to win me over, but I prefer my other Apple
 podcasts more (to be revealed in a later post).
