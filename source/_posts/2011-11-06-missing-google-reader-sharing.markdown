@@ -43,13 +43,14 @@ functionality and replaced it with a poor visual design and some
 hacked on Google+ sharing features which they assumedly would prefer
 us to use.
 
-If I really wanted to post my links with Google+ I would have
-already been sharing the links through Twitter or Facebook. Nevermind
+{% pullquote %}
+{" If I really wanted to share my links with Google+ I would have already been sharing the links through Twitter or Facebook. "} Nevermind
 your feelings about Google+ as a social network, it is not a
 replacement for the previous Reader functionality. The previous
 sharing functionality put articles shared by friends directly into our
 reading system, and didn't force a task change between "skimming
 social network" and "reading RSS feeds" which the new system does. 
+{% endpullquote %}
 
 This change has understandly
 [upset](http://kirbybits.wordpress.com/2011/10/21/wherein-i-try-to-explain-why-google-reader-is-the-best-social-network-created-so-far/
@@ -62,13 +63,12 @@ This change has understandly
 I tried to craft a solution using a Tumblr blog to create an RSS of a  list of
 links, but that doesn't solve one of the most critical features: full
 text RSS feeds could be shared with full text. This was zero-friction
-reading (combined with zero friction sharing of a single button
-Share), and worked with peoples caching iPhone/Android Google Reader
+reading (combined with zero friction sharing with a single share button), and worked with peoples caching iPhone/Android Google Reader
 apps. Unless I manually copy and paste the text and repost it on
 my own site (which is questionable from a copyright standpoint), I
 can't replicate this functionality.
 
-## The Future ##
+### The Future
 
 We could wait for a competitor to come out with a new RSS feed
 service that offers the kind of sharing Google Reader had. This isn't

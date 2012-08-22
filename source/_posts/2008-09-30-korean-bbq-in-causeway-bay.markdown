@@ -2,6 +2,7 @@
 wordpress_id: "35"
 layout: post
 title: Korean BBQ in Causeway Bay (銅鑼灣的韓國菜)
+comments: true
 
 wordpress_url: http://www.divergio.com/?p=35
 ---

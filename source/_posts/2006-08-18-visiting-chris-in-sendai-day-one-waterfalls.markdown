@@ -2,6 +2,7 @@
 wordpress_id: "10"
 layout: post
 title: Visiting Chris in Sendai (day one, waterfalls)
+comments: true
 wordpress_url: http://tyler.neocaridina.com/2006/08/18/visiting-chris-in-sendai-day-one-waterfalls/
 ---
 Hearing Chris's descriptions of Sendai early on in the program, I had always thought it would be fun to visit him and see some of the beautiful sights there.  Still, shinkansen tickets as expensive as they are, I didn't know if I would be able to do it.  After discovering the JR East pass, a Sendai visit became the clear choice for my last two "flex days."<!--more-->

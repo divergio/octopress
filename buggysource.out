@@ -1,0 +1,576 @@
+
+<!DOCTYPE html>
+<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
+<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
+<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <title>divergio</title>
+  <meta name="author" content="Tyler Barth">
+  
+
+  <!-- http://t.co/dKP3o1e -->
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+  
+  <link rel="canonical" href="http://www.divergio.com/">
+  <link href="/favicon.png" rel="shortcut icon" />
+  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+  <script src="/javascripts/modernizr-2.0.js"></script>
+  <script src="http://s3.amazonaws.com/ender-js/jeesh.min.js"></script>
+  <script src="/javascripts/octopress.js" type="text/javascript"></script>
+  <link href="http://feeds.feedburner.com/divergio" rel="alternate" title="divergio" type="application/atom+xml"/>
+  <!--Fonts from Google's Web font directory at http://google.com/webfonts -->
+<link href='http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic' rel='stylesheet' type='text/css'>
+
+</head>
+
+<body  >
+  <header><hgroup>
+  <h1><a href="/">divergio</a></h1>
+  
+</hgroup>
+
+</header>
+  <nav role=navigation><ul role=subscription data-subscription="rss">
+  <li><a href="http://feeds.feedburner.com/divergio" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
+  
+</ul>
+<form action="http://google.com/search" method="get">
+  <fieldset role="site-search">
+    <input type="hidden" name="q" value="site:www.divergio.com" />
+    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
+  </fieldset>
+</form>
+<ul role=main-navigation>
+  <li><a href="/about">About</a></li>
+  <li><a href="/">Blog</a></li>
+  <li><a href="/blog/archives">Archives</a></li>
+</ul>
+
+</nav>
+  <div id="main">
+    <div id="content">
+      <div class="blog-index">
+
+
+
+  <article>
+    
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2011/02/26/smartphone-usability/">The Design of Everyday Smartphones</a></h1>
+    
+    
+      <p class="meta">
+
+
+
+
+
+  
+
+
+
+<time datetime="2011-02-26T00:00:00+08:00" pubdate  data-updated="true" >Feb 26<span>th</span>, 2011</time></p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>I know I&#8217;m not the first one to <a href="http://c3sart.com/design/overcoming-failure-through-good-design" title="c3sart">point</a> <a href="http://www.davidstagg.com/2009/08/26/a-note-on-the-design-of-everyday-things/" title="davidstagg">this</a> <a href="http://bill.dudney.net/roller/objc/entry/foretelling_the_iphone" title="bill dudney">out</a>, but I found that the modern smartphone solves (though probably also creates) many of the problems discussed in Donald Norman&#8217;s <a href="http://www.amazon.com/gp/product/0465067107?ie=UTF8&amp;tag=divergi-20&amp;linkCode=as2&amp;camp=1789&amp;creative=9325&amp;creativeASIN=0465067107" title="Amazon, Design of Everyday Things">&#8220;The Design of Everyday Things&#8221;</a></p>
+
+<blockquote><p>Would you like a pocket-size device that reminded you of each
+appointment and daily event? [&#8230;] It has to be small. It has to be
+convenient to use. And it has to relatively powerful, at least by
+today&#8217;s standards. It has to have a full, standard typewriter keyboard
+and a reasonably large display. It needs good graphics, because that
+makes a tremendous difference in usability, and a lot of memory&#8211;a huge
+amount, actually. And it should be easy to hook up to the telephone; I
+need to connect it to my home and laboratory computers. Of course, it
+should be relatively inexpensive.</p></blockquote>
+
+<p>The only unmet feature is the &#8220;relatively inexpensive&#8221; part, but even that is changing.</p>
+
+<p>I know there is still a lot of work to be done, but I&#8217;m pretty happy with how many of the problems of task management, password memorization, and number memorization are solved by smartphones.</p>
+</div>
+  
+  
+
+
+  </article>
+
+
+  <article>
+    
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2011/02/06/migrating-to-octopress/">Migrating to Octopress</a></h1>
+    
+    
+      <p class="meta">
+
+
+
+
+
+  
+
+
+
+  
+
+<time datetime="2011-02-06T00:00:00+08:00" pubdate  data-updated="true" >Feb 6<span>th</span>, 2011</time></p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>I&#8217;m migrating the site to Octopress. I&#8217;m going to make a proper post about why I did it and hopefully start making a lot more posts, but for now I&#8217;m putting this here just in case I have any subscribers who are confused that all of my posts aren&#8217;t marked as read.</p>
+
+<p>A few things are still broken, and I want to make my own design, but I realized that I had already polished the Octopress blog more than my Wordpress blog, so I decided to launch.</p>
+
+<p>I&#8217;ve still got a few bugs, but I&#8217;ve actually shut down the MySQL process and switched to a static site.</p>
+</div>
+  
+  
+
+
+  </article>
+
+
+  <article>
+    
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2008/11/11/iphone-tech-talk-impressions/">iPhone Tech Talk Impressions</a></h1>
+    
+    
+      <p class="meta">
+
+
+
+
+
+  
+
+
+
+<time datetime="2008-11-11T00:00:00+08:00" pubdate  data-updated="true" >Nov 11<span>th</span>, 2008</time></p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>I went to the Hong Kong iPhone tech talk today. I don&#8217;t think it violates the NDA to give my impressions of the event, but if it does I suppose the Apple lawyers can tell me.</p>
+
+</div>
+  
+  
+    <footer>
+      <a rel="full-article" href="/blog/2008/11/11/iphone-tech-talk-impressions/">Read on &rarr;</a>
+    </footer>
+  
+
+
+  </article>
+
+
+  <article>
+    
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2008/10/27/simple-solution-to-os-x-dictionary-pop-up-shortcut-bug/">Simple Solution to OS X Dictionary Pop-up Shortcut Bug</a></h1>
+    
+    
+      <p class="meta">
+
+
+
+
+
+  
+
+
+
+<time datetime="2008-10-27T00:00:00+08:00" pubdate  data-updated="true" >Oct 27<span>th</span>, 2008</time></p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>While looking for a Chinese dictionary tool tip application for OS X, I found a <a href="http://m10lmac.blogspot.com/2007/12/os-x-105-leopard-chinese-module-for.html">Chinese module</a> for the Dictionary app. By combining this with another cool feature to allow <a href="http://lifehacker.com/software/mac-os-x/how-to-use-apple-os-xs-builtin-dictionary-199108.php
+">mouse-over pop ups </a>from the built in dictionary, I thought I had a good solution.</p>
+
+<p>Except the shortcut didn&#8217;t work. </div>
+  
+  
+    <footer>
+      <a rel="full-article" href="/blog/2008/10/27/simple-solution-to-os-x-dictionary-pop-up-shortcut-bug/">Read on &rarr;</a>
+    </footer>
+  
+
+
+  </article>
+
+
+  <article>
+    
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2008/10/16/shoes-off-in-the-house/">Shoes Off in the House</a></h1>
+    
+    
+      <p class="meta">
+
+
+
+
+
+  
+
+
+
+<time datetime="2008-10-16T00:00:00+08:00" pubdate  data-updated="true" >Oct 16<span>th</span>, 2008</time></p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>There is an <a href="http://unclutterer.com/2007/10/13/no-shoes-less-cleaning/">interesting discussion</a> on Unclutterer about whether or not people wear there shoes inside. Some people are more easy-going, but others take extreme stances on either side, for or against.</p>
+
+<p>I think in this my opinion has been shaped mostly by my upbringing and by my exposure to Japanese culture. My mom kind of made us take off our shoes, but it was never a real serious rule. Grandma&#8217;s house, though, that is a place where shoes had to come off.  There was a special entryway where you could take off shoes or boots in the winter time.  Inside, the linoleum floors and soft carpets were always immaculate. You could just lay on the carpet if all of the chairs were taken by grownups, and the little kids always played on the carpet. This takes a lot of care and maintenance by my grandma, but it made us always feel super-comfortable at her house.</p>
+
+<p>Japanese people have special shoe related customs for every situation. People always take off their shoes when visiting others. They have special shoes you put on when you get to the hot springs resort, but you still have to take these shoes off when you enter your room or eat dinner. There are still other shoes you put on when you enter the <a href="http://farm1.static.flickr.com/45/181590265_69f2cd2d83.jpg">bathroom</a>. When you use the scanning electron microscope you actually have to wear a suit with special shoes, though I think they do this in the US sometimes, too.</p>
+
+<p>Come to think of it, my time in Japan has made me more sensitive to cultural differences. By this I mean that I am better able to detect when someone is doing something differently because of their culture and not because they don&#8217;t know how to do it the &#8220;right&#8221; way. I also acknowledge that some times there are two ways of doing something that have about equal merit, but which arbitrarily can be different in different cultures. This sounds really basic, but some people from my culture refuse to acknowledge this.</p>
+
+<p>If it&#8217;s a tile floor, I don&#8217;t care about leaving shoes on that much. Tile feels dirty to me no matter what. But someday I&#8217;ll have a real house with carpet, and in that home I won&#8217;t care about other cultures. It&#8217;s going to be shoe-less.</p>
+</div>
+  
+  
+
+
+  </article>
+
+
+  <article>
+    
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2008/10/03/japans-advantages/">Japan&#8217;s Advantages</a></h1>
+    
+    
+      <p class="meta">
+
+
+
+
+
+  
+
+
+
+<time datetime="2008-10-03T00:00:00+08:00" pubdate  data-updated="true" >Oct 3<span>rd</span>, 2008</time></p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>I can&#8217;t say much about Japanese culture. I am by no means an expert.  I lived here for ten weeks and there are still many things that happened that I cannot explain. I know that Japanese culture is very insular and that foreigners will somehow always be on the outside, more so than in China. I also know that it is more difficult for Japanese women at work because they rarely get the kinds of advantages like maternity leave that we have in the US.</p>
+
+<p>The things I like about Japan are the little things:</p>
+
+<p>The subway system. It actually lets you go anywhere you want to go. Sure, it is also more complex than any other system, but that gives you something to use that fancy cell phone for.</p>
+
+<p>Breakfast. The Japanese do it better than any other country I have experienced. I&#8217;m speaking about &#8220;typical&#8221; breakfasts, here, something you might eat every morning from a local restaurant. Typical American breakfast items are too heavy with oil and there is too much focus on having a &#8220;hearty&#8221; breakfast (which actually means heart-clogging).  Hong Kong breakfasts seem almost brain dead, like they didn&#8217;t know what else to eat so they just threw together random parts from other countries&#8217; breakfasts. A traditional Japanese breakfast is light and healthy.  About the only thing it is missing is some fruit, but that can be easily rectified.</p>
+
+<p>Bathing. My morning experience (though I do this at night, too) here is so much better than any other place. Slip on the yukata, take the elevator to the bath in the basement, wash myself sitting down, then slip into the HOT bath for a few moments of peace. The hot bath really clinches it; the heat really gets your blood flowing.  I can feel the tension of sleep flow out of my fingers and legs. As soon as I get out, I&#8217;m ready to start my day (or go to sleep, whichever time it is).</p>
+
+<p>Toilets. This seems like a strange topic to bring up, but it must be said: Using the toilet is as fundamental a human activity as eating or sleeping, but for all the care put into food preparation and comfortable beds, most of the world is still in the dark ages when it comes to toilets. Even in my home country, the richest (well, at least for now) country in the world, a &#8220;luxury&#8221; bathroom is one with triple-ply toilet paper. The toilet at my hotel in Japan has a place to set my backpack, privacy curtains that go down to the floor, heated seat, control panel, and bidet. I&#8217;ve seen some models that have driers. That the toilet technology here has not become commonplace in other countries either means they don&#8217;t care enough or don&#8217;t like it. In either case it makes me feel a special kinship with the Japanese.</p>
+
+<p>Ramen. As far as I&#8217;m concerned, the only decent soup the west has is Chicken Noodle. Vietnam has pho and China has cross the bridge noodle, but Japan has one of the best: ramen. It comes in many varieties to suit any taste. The noodles perfectly al dente, the broth sublime, and with extras like pork, hard-boiled egg, bamboo shoots, and nori. I know some of you might be saying &#8220;but ramen comes from China.&#8221; Well, the Japanese perfected it. I&#8217;ve never been satisfied with Chinese beef noodle soup, but good ramen is a world class taste.</p>
+
+<p>So those are all the little daily life things that I like about Japan. Of course, there are many other areas in which I can feel some connection to Japan: aquariums, design aesthetic in general, the beautiful natural places, emphasis on technology, and, of course, my favorite anime.  But these little things are what make living in Japan more <em>comfortable</em> than other places.</p>
+</div>
+  
+  
+
+
+  </article>
+
+
+  <article>
+    
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2008/09/30/korean-bbq-in-causeway-bay/">Korean BBQ in Causeway Bay (銅鑼灣的韓國菜)</a></h1>
+    
+    
+      <p class="meta">
+
+
+
+
+
+  
+
+
+
+<time datetime="2008-09-30T00:00:00+08:00" pubdate  data-updated="true" >Sep 30<span>th</span>, 2008</time></p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>We went looking for Korean barbeque one evening and found this place. It is about a three block walk from the MTR station. The atmosphere is very nice, the meat high quality with a lot of different selections, and the price reasonable. At the end it was $115-130 HKD per person. Service was also quite good, and the set meals were quite enjoyable. We went for dinner, though they had some nice looking lunch specials.</p>
+
+<p>I had a friend who said that it was quite different from the experience in Korea, where the set meal is less common.  I can say it was also quite different from the all you can eat  (吃到飽) I had in Taiwan that was all self-service and you could choose any meat you wanted. However, it met my expectations of Korean barbeque as an American, providing an almost equivalent experience to the Korean barbeque I had in Houston.</p>
+
+<p>I give it a thumbs up. So if you are in the mood for Korean BBQ near Causeway Bay, I recommend it.</p>
+
+<p>Name: Korea Restaurant
+Location: 58, Leighton Rd, G/F, Causeway Bay, H.K.
+Phone: 25779893, 25779876</p>
+</div>
+  
+  
+
+
+  </article>
+
+
+  <article>
+    
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2008/08/19/california-rolls/">California Rolls</a></h1>
+    
+    
+      <p class="meta">
+
+
+
+
+
+  
+
+
+
+<time datetime="2008-08-19T00:00:00+08:00" pubdate  data-updated="true" >Aug 19<span>th</span>, 2008</time></p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>The first thing I made out of the <a href="http://en.wikipedia.org/wiki/DS_Cooking">&#8220;Cooking Guide&#8221;</a> game was California Rolls. I had much more ambitious plans, but it seems that grocery stores in central Minnesota lack the necessary ingredients to make most of the things I wanted to make. After a half hour of searching, we found everything for the california rolls.</p>
+
+<p>We didn&#8217;t have my rice cooker, so I had to make rice in a pot. I was a little unsure about doing that, but the rice turned out pretty well. I used fake crab, which was only okay and was apparently not as high quality as the fake crab I usually have.</p>
+
+<p>The whole &#8220;meal&#8221; consisted of fruit juice, hummus and pita for an appetizer, and then the main course of California rolls. My mom, my brother, and I had four rolls in all  It was pretty delicious, and I got better after making each one.</p>
+
+<p>Here is the result:
+<a href="http://www.flickr.com/photos/divergio/3318074385/" class="tt-flickr tt-flickr-Medium" title="P1060099"><img class="alignnone" src="http://farm4.static.flickr.com/3480/3318074385_eebb5512b0.jpg" alt="P1060099" width="500" height="375" /></a></p>
+
+<p>Itadakimasu!!!
+<a href="http://www.flickr.com/photos/divergio/3318900788/" class="tt-flickr tt-flickr-Medium" title="P1060100"><img class="alignnone" src="http://farm4.static.flickr.com/3360/3318900788_f376f0a7f8.jpg" alt="P1060100" width="500" height="375" /></a></p>
+</div>
+  
+  
+
+
+  </article>
+
+
+  <article>
+    
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2008/08/17/cooking/">Cooking</a></h1>
+    
+    
+      <p class="meta">
+
+
+
+
+
+  
+
+
+
+<time datetime="2008-08-17T00:00:00+08:00" pubdate  data-updated="true" >Aug 17<span>th</span>, 2008</time></p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>Since I was a freshman in high school, my mom has rarely cooked dinner. Even if she cooked more often, I&#8217;ve been away from home for so long that I almost never have home-cooked meals.</p>
+
+</div>
+  
+  
+    <footer>
+      <a rel="full-article" href="/blog/2008/08/17/cooking/">Read on &rarr;</a>
+    </footer>
+  
+
+
+  </article>
+
+
+  <article>
+    
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2008/08/16/miso-sesame-salmon/">Miso Sesame Salmon</a></h1>
+    
+    
+      <p class="meta">
+
+
+
+
+
+  
+
+
+
+<time datetime="2008-08-16T00:00:00+08:00" pubdate  data-updated="true" >Aug 16<span>th</span>, 2008</time></p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>After criticizing my mother&#8217;s cooking we got into a bit of a fight, resulting in her placing dinner entirely in my hands.</p>
+
+<p>It had to be a salmon dish, that was the plan. The disagreement was over the seasoning: my mom wanted to use some off-the-shelf &#8220;salmon seasoning&#8221; that I knew I wouldn&#8217;t like.</p>
+
+</div>
+  
+  
+    <footer>
+      <a rel="full-article" href="/blog/2008/08/16/miso-sesame-salmon/">Read on &rarr;</a>
+    </footer>
+  
+
+
+  </article>
+
+<nav role="pagination">
+  <div>
+    
+      <a class="prev" href="/blog/page/2/">&larr; Older</a>
+    
+    <a href="/blog/archives">Blog Archives</a>
+    
+  </div>
+</nav>
+
+<script type="text/javascript">
+    var disqus_shortname = 'divergio';
+    (function () {
+      var s = document.createElement('script'); s.async = true;
+      s.type = 'text/javascript';
+      s.src = 'http://' + disqus_shortname + '.disqus.com/count.js';
+      (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+    }());
+</script>
+
+</div>
+<aside role=sidebar>
+  
+    <section>
+  <h1>About Me</h1>
+  <p>I&#8217;m just a programmer trying to explore the world.</p>
+</section>
+<section>
+  <h1>Recent Posts</h1>
+  <ul id="recent_posts">
+    
+      <li class="post">
+        <a href="/blog/2011/02/26/smartphone-usability/">The Design of Everyday Smartphones</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2011/02/06/migrating-to-octopress/">Migrating to Octopress</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2008/11/11/iphone-tech-talk-impressions/">iPhone Tech Talk Impressions</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2008/10/27/simple-solution-to-os-x-dictionary-pop-up-shortcut-bug/">Simple solution to OS X dictionary pop-up shortcut bug</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2008/10/16/shoes-off-in-the-house/">Shoes off in the house</a>
+      </li>
+    
+  </ul>
+</section>
+
+
+<section>
+  <h1>Latest Tweets</h1>
+  <ul id="tweets">
+    <li class="loading">Status updating&#8230;</li>
+  </ul>
+  <script type="text/javascript">
+    $.domReady(function(){
+      getTwitterFeed("divergio", 4, false);
+    });
+  </script>
+  <script src="/javascripts/twitter.js" type="text/javascript"> </script>
+  
+    <a href="http://twitter.com/divergio" class="twitter-follow-button" data-width="208px" data-show-count="false">Follow @divergio</a>
+  
+</section>
+
+
+
+
+  
+</aside>
+
+    </div>
+  </div>
+  <footer><p>
+  Copyright &copy; 2011 - Tyler Barth -
+  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
+</p>
+
+</footer>
+  
+  <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-21376820-1']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+
+
+  
+  <script type="text/javascript">
+    (function() {
+      var script = document.createElement('script'); script.type = 'text/javascript'; script.async = true;
+      script.src = 'https://apis.google.com/js/plusone.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(script, s);
+    })();
+  </script>
+
+
+  
+  <script type="text/javascript">
+    (function(){
+      var twitterWidgets = document.createElement('script');
+      twitterWidgets.type = 'text/javascript';
+      twitterWidgets.async = true;
+      twitterWidgets.src = 'http://platform.twitter.com/widgets.js';
+      document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
+    })();
+  </script>
+
+
+</body>
+</html>

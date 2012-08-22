@@ -2,6 +2,7 @@
 wordpress_id: "29"
 layout: post
 title: Cooking
+comments: true
 wordpress_url: http://www.divergio.com/2008/08/17/cooking/
 ---
 Since I was a freshman in high school, my mom has rarely cooked dinner. Even if she cooked more often, I've been away from home for so long that I almost never have home-cooked meals.

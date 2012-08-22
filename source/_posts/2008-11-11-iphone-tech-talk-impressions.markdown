@@ -2,6 +2,7 @@
 wordpress_id: "52"
 layout: post
 title: iPhone Tech Talk Impressions
+comments: true
 wordpress_url: http://www.divergio.com/?p=52
 ---
 I went to the Hong Kong iPhone tech talk today. I don't think it violates the NDA to give my impressions of the event, but if it does I suppose the Apple lawyers can tell me.

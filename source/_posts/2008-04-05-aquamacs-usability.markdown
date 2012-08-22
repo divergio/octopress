@@ -2,6 +2,7 @@
 wordpress_id: "27"
 layout: post
 title: Aquamacs Usability
+comments: true
 wordpress_url: http://www.divergio.com/2008/04/05/aquamacs-usability/
 ---
 Maybe the joke is on me for writing a usability and user interface design critique on something as convoluted as emacs, but I found this dialog so ridiculous I could not resist.

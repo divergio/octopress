@@ -2,6 +2,7 @@
 wordpress_id: "5"
 layout: post
 title: Niigata ni ikimashita.
+comments: true
 wordpress_url: http://tyler.neocaridina.com/2006/07/05/niigata-ni-ikimashita/
 ---
 I paid 100 yen to use this computer for 15 minutes, so you better be happy that I am making a post. Forgive me for errors, too, because this is a strange japanese keyboard and i must type rapidly.

@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: "The Design of Everyday Smartphones"
 ---
 

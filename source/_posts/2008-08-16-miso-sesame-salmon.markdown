@@ -2,6 +2,7 @@
 wordpress_id: "31"
 layout: post
 title: Miso Sesame Salmon
+comments: true
 wordpress_url: http://www.divergio.com/?p=31
 ---
 After criticizing my mother's cooking we got into a bit of a fight, resulting in her placing dinner entirely in my hands.

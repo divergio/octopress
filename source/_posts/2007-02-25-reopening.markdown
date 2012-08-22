@@ -2,6 +2,7 @@
 wordpress_id: "15"
 layout: post
 title: Reopening
+comments: true
 wordpress_url: http://divergio.nfshost.com/2007/02/25/reopening/
 ---
 Tyler Blog's new domain home is www.divergio.com.

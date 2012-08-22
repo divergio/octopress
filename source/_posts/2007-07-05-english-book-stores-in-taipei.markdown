@@ -2,6 +2,7 @@
 wordpress_id: "24"
 layout: post
 title: English Book Stores in Taipei (台北英文書店) 
+comments: true
 wordpress_url: http://www.divergio.com/2007/07/05/english-book-stores-in-taipei-%e5%8f%b0%e5%8c%97%e6%9b%b8%e5%ba%97/
 ---
 I love reading, so when I got to Taiwan the first thing I did was look for the best English language bookstores.  I did this in Hong Kong also (if you're wondering, it's Swindon Books in TST).  After meeting with a friend from Rice, she told me that she thought the Page One in Taipei 101 was the best.

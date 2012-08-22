@@ -2,6 +2,7 @@
 wordpress_id: "8"
 layout: post
 title: Osaka part 1 (Lab visit, hiking)
+comments: true
 wordpress_url: http://www.divergio.com/2006/08/04/osaka-part-1-lab-visit-hiking/
 ---
 This half-week or so I went to Osaka.  My Japanese teacher is from Osaka, so so many times she would tell me about how great Osaka is and how the people in Osaka are so nice and how it is a great place to visit.  So, when my research advisor invited me to visit his lab at Osaka U (Handai) while the rest of my lab was away at a conference in America, I jumped at the chance.  What better pretenses for a visit to Osaka than an interest in "touring a lab."
