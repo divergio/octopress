@@ -2,12 +2,10 @@ require "rubygems"
 require "bundler/setup"
 require "stringex"
 
-## -- Rsync Deploy config -- ##
 # Be sure your public key is listed in your server's ~/.ssh/authorized_keys file
+<<<<<<< HEAD
 
-ssh_user       = "divergio_divergio@ssh.phx.nearlyfreespeech.net"
-document_root  = "/home/public"
-rsync_delete   = true
+
 deploy_default = "rsync"
 ssh_port       = 22
 
