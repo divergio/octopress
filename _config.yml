@@ -70,7 +70,7 @@ twitter_tweet_count: 4
 twitter_show_replies: false
 twitter_follow_button: true
 twitter_show_follower_count: false
-twitter_tweet_button: true
+twitter_tweet_button: false
 
 # Google +1
 google_plus_one: false
@@ -98,9 +98,5 @@ disqus_show_comment_count: true
 google_analytics_tracking_id: UA-21376820-1
 
 # Facebook Like
-<<<<<<< HEAD
-facebook_like: true
-
-=======
 facebook_like: false
->>>>>>> 89701e1a5a558c1253de2ee4c0ab1e6582c3191e
+

@@ -4,10 +4,16 @@ require "stringex"
 
 ## -- Rsync Deploy config -- ##
 # Be sure your public key is listed in your server's ~/.ssh/authorized_keys file
+<<<<<<< HEAD
 
 ssh_user       = "divergio_divergio@ssh.phx.nearlyfreespeech.net"
 document_root  = "/home/public"
+=======
+ssh_user       = "user@domain.com"
+ssh_port       = "22"
+document_root  = "~/website.com/"
 rsync_delete   = true
+>>>>>>> 89701e1a5a558c1253de2ee4c0ab1e6582c3191e
 deploy_default = "rsync"
 ssh_port       = 22
 
@@ -152,7 +158,7 @@ task :new_page, :filename do |t, args|
 end
 
 # usage rake isolate[my-post]
-desc "Move all other posts than the one currently being worked on to a temporary stash location (stash) so regenerating the site happens much more quickly."
+desc "Move all other posts than the one currently being worked on to a temporary stash location (stash) so regenerating the site happens much quicker."
 task :isolate, :filename do |t, args|
   stash_dir = "#{source_dir}/#{stash_dir}"
   FileUtils.mkdir(stash_dir) unless File.exist?(stash_dir)
