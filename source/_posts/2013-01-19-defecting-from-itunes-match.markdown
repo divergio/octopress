@@ -60,4 +60,4 @@ For the first time in the history of the iOS platform you can use Amazon's third
 
 **For the first time, I am considering canceling my iTunes Match subscription and giving my $25 a year to Amazon instead of Apple. **
 
-**Update** My opinion has changed on this, see the [new post]().
+**Update** My opinion has changed on this, see the [new post](http://www.divergio.com/blog/2013/01/29/love-the-one-youre-with/ "Love the one you're with").
