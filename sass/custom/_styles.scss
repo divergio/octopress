@@ -3,3 +3,9 @@
 figcaption {
 font-style: italic;
 }
+
+article {
+  ol, ul {
+    padding-left: 3em;
+  }
+}

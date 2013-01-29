@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Kindle 4 vs Kingle Touch"
+title: "Kindle 4 vs Kindle Touch"
 date: 2012-01-23 19:50
 comments: true
 categories: 
