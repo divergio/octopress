@@ -3,7 +3,7 @@ layout: post
 title: "Goodbye, Steve."
 date: 2011-10-06 11:42
 comments: false
-categories: 
+categories: technology
 ---
 When Steve Jobs resigned, a lot of us still had hopes that it was
 temporary. We hoped maybe he would recover and, maybe even a short

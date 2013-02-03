@@ -4,6 +4,7 @@ layout: post
 title: Simple solution to OS X dictionary pop-up shortcut bug
 comments: true
 wordpress_url: http://www.divergio.com/?p=47
+categories: technology
 ---
 While looking for a Chinese dictionary tool tip application for OS X, I found a <a href="http://m10lmac.blogspot.com/2007/12/os-x-105-leopard-chinese-module-for.html">Chinese module</a> for the Dictionary app. By combining this with another cool feature to allow <a href="http://lifehacker.com/software/mac-os-x/how-to-use-apple-os-xs-builtin-dictionary-199108.php
 ">mouse-over pop ups </a>from the built in dictionary, I thought I had a good solution.

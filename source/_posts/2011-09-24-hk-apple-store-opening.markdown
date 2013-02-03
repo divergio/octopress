@@ -3,7 +3,7 @@ layout: post
 title: "HK Apple Store Opening"
 date: 2011-09-24 21:21
 comments: true
-categories: 
+categories: technology
 ---
 <figure>
 <a href="http://www.flickr.com/photos/divergio/6178196102/" title="photo6 by tdenton137, on Flickr"><img src="http://farm7.static.flickr.com/6159/6178196102_32547c6c9e.jpg" width="374" height="500" alt="photo6"></a>

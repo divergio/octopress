@@ -4,6 +4,7 @@ layout: post
 title: Japan's advantages
 comments: true
 wordpress_url: http://www.divergio.com/?p=40
+categories: personal
 ---
 I can't say much about Japanese culture. I am by no means an expert.  I lived here for ten weeks and there are still many things that happened that I cannot explain. I know that Japanese culture is very insular and that foreigners will somehow always be on the outside, more so than in China. I also know that it is more difficult for Japanese women at work because they rarely get the kinds of advantages like maternity leave that we have in the US.
 

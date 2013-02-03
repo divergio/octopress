@@ -3,8 +3,8 @@ wordpress_id: "44"
 layout: post
 title: Shoes off in the house
 comments: true
-comments: true
 wordpress_url: http://www.divergio.com/?p=44
+categories: personal
 ---
 There is an <a href="http://unclutterer.com/2007/10/13/no-shoes-less-cleaning/">interesting discussion</a> on Unclutterer about whether or not people wear there shoes inside. Some people are more easy-going, but others take extreme stances on either side, for or against.
 

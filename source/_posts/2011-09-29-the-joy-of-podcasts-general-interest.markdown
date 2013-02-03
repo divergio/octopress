@@ -3,7 +3,7 @@ layout: post
 title: "The Joy of Podcasts: General Interest"
 date: 2011-09-29 00:03
 comments: true
-categories: 
+categories: technology
 published: true
 ---
 This is the first in a small series of posts about my favorite

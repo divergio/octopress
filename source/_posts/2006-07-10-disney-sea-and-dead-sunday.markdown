@@ -4,6 +4,7 @@ layout: post
 title: Disney Sea and dead Sunday
 comments: true
 wordpress_url: http://tyler.neocaridina.com/2006/07/10/disney-sea-and-dead-sunday/
+categories: personal
 ---
 <em>"To obtain, something of equal value must be lost. That is alchemy's First Law of Equivalent Exchange."</em> <em>Alphonse Elric</em>
 

@@ -3,7 +3,7 @@ layout: post
 title: "Kindle 4 vs Kindle Touch"
 date: 2012-01-23 19:50
 comments: true
-categories: 
+categories: technology
 ---
 I've never owned an e-ink reader, though I've wanted to for a long
 time. Every few years I check the

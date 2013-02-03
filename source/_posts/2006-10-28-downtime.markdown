@@ -4,5 +4,6 @@ layout: post
 title: Downtime
 comments: true
 wordpress_url: http://tyler.neocaridina.com/2006/10/28/downtime/
+categories: personal technology
 ---
 Sorry about the downtime, I was down for almost a month because I switched webhosts and ran into some unexpected problems.  It took three hours of troubleshooting, but I think I am mostly up, now.

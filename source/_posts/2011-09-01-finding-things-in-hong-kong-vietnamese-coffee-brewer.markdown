@@ -3,7 +3,7 @@ layout: post
 title: "Finding Things in Hong Kong: Vietnamese Coffee Brewer"
 date: 2011-09-25 00:39
 comments: true
-categories: 
+categories: personal
 ---
 <figure>
 <a href="http://www.flickr.com/photos/divergio/6178555030/"

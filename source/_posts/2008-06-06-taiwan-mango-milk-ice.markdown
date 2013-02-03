@@ -4,6 +4,7 @@ layout: post
 title: Taiwan Mango Milk Ice
 comments: true
 wordpress_url: http://www.divergio.com/2008/06/06/taiwan-mango-milk-ice/
+categories: personal
 ---
 I miss a lot of things about Taiwan, but the thing I miss the most is the dessert I had almost every day: Mango Milk Ice (芒果牛奶冰).<!--more-->
 

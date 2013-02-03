@@ -2,6 +2,7 @@
 layout: post
 comments: true
 title: "The Design of Everyday Smartphones"
+categories: technology
 ---
 
 I know I'm not the first one to [point][1] [this][2] [out][3], but I found that the modern smartphone solves (though probably also creates) many of the problems discussed in Donald Norman's ["The Design of Everyday Things"][4]

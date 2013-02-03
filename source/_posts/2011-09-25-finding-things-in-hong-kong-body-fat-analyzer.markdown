@@ -3,7 +3,7 @@ layout: post
 title: "Finding Things in Hong Kong: Body Fat Analyzer"
 date: 2011-09-01 02:02
 comments: true
-categories: 
+categories: personal
 ---
 I was curious about starting a new exercise program in Hong Kong, but first I needed an important tool so I could quantify my progress. 
 

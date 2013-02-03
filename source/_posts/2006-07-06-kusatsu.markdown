@@ -4,6 +4,7 @@ layout: post
 title: Kusatsu
 comments: true
 wordpress_url: http://tyler.neocaridina.com/2006/07/06/kusatsu/
+categories: personal
 ---
 It's hard to believe that this all happened in one day. <!--more-->I woke up at 7:00 to get ready for breakfast.  Breakfast was orange juice with some kind of meat cake and a vegetable cake, uncooked bacon (or something like that, weird ham), salad, and fried eggs on bean sprouts.  It wasn't bad, I just didn't eat the eggs.
 

@@ -3,7 +3,7 @@ layout: post
 title: "The Joy of Podcasts: Android or Non-Apple Tech Podcasts"
 date: 2011-10-10 22:04
 comments: true
-categories: 
+categories: technology
 published: true
 ---
 You may have noticed that the bulk of the technology podcasts I listen

@@ -3,7 +3,7 @@ layout: post
 title: "The Joy of Podcasts"
 date: 2011-09-26 02:02
 comments: true
-categories: 
+categories: technology
 ---
 I've compiled a list of my favorite podcasts. 
 

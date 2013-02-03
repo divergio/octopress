@@ -3,7 +3,7 @@ layout: post
 title: "The Joy of Podcasts: Apple-related Podcasts"
 date: 2011-10-03 23:42
 comments: true
-categories: 
+categories: technology
 published: true
 ---
 

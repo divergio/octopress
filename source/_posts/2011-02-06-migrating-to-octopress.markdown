@@ -3,6 +3,7 @@ title: Migrating to Octopress
 comments: true
 layout: post
 updated: February6, 2011
+categories: technology
 ---
 
 I'm migrating the site to Octopress. I'm going to make a proper post about why I did it and hopefully start making a lot more posts, but for now I'm putting this here just in case I have any subscribers who are confused that all of my posts aren't marked as read.

@@ -5,6 +5,7 @@ title: Korean BBQ in Causeway Bay (銅鑼灣的韓國菜)
 comments: true
 
 wordpress_url: http://www.divergio.com/?p=35
+categories: personal
 ---
 We went looking for Korean barbeque one evening and found this place. It is about a three block walk from the MTR station. The atmosphere is very nice, the meat high quality with a lot of different selections, and the price reasonable. At the end it was $115-130 HKD per person. Service was also quite good, and the set meals were quite enjoyable. We went for dinner, though they had some nice looking lunch specials.
 

@@ -4,6 +4,7 @@ layout: post
 title: California Rolls
 comments: true
 wordpress_url: http://www.divergio.com/?p=30
+categories: personal
 ---
 The first thing I made out of the <a href="http://en.wikipedia.org/wiki/DS_Cooking">"Cooking Guide"</a> game was California Rolls. I had much more ambitious plans, but it seems that grocery stores in central Minnesota lack the necessary ingredients to make most of the things I wanted to make. After a half hour of searching, we found everything for the california rolls.
 

@@ -3,7 +3,7 @@ layout: post
 title: "Missing Google Reader Sharing"
 date: 2011-11-06 14:51
 comments: true
-categories: 
+categories: technology
 ---
 
 I really liked Google Reader's share functionality because it made it

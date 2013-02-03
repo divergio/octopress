@@ -4,6 +4,7 @@ layout: post
 title: "Taiwan: Introduction to My Experiences"
 comments: true
 wordpress_url: http://www.divergio.com/2007/07/04/taiwan-introduction-to-my-experiences/
+categories: personal
 ---
 I've been in Taiwan for about four weeks now.  After a bit of confusion getting to the apartment, I had no major issues.  I'm here for just the summer, learning Chinese at ICLP at the National Taiwanese University (台大).
 
